@@ -14,11 +14,8 @@ Building scalable backend systems, cloud-native applications, and automation pla
 
 ## 🚀 About Me
 
-- 💻 Backend Software Engineer
-- 🌱 Learning AWS Solutions Architect Professional
-- ☁️ Interested in Cloud Native Architecture
+- 💻 Full stack Engineer
 - 🤖 Exploring AI Agents and Automation
-- ⚡ Passionate about Clean Code and System Design
 
 ---
 
@@ -49,58 +46,8 @@ Building scalable backend systems, cloud-native applications, and automation pla
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=6" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### AI Automation Platform
 AI-powered automation and workflow orchestration.
 
-### Auto Test Framework
-Scalable automated testing platform.
-
-### Cloud Native Microservices
-Spring Boot + Kubernetes production architecture.
-
----
-
-## 🌱 Currently Learning
-
-- AWS SAP-C02
-- Kubernetes
-- AI Agents
-- GitHub Copilot Agent Mode
-- LLM Engineering
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn URL
-- Blog: Add your website URL
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views" />
-</p>
