@@ -6,10 +6,6 @@
 Building scalable backend systems, cloud-native applications, and automation platforms.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Backend+Engineer;Java+Developer;Spring+Boot+Enthusiast;AWS+Cloud+Architect;AI+Automation+Explorer" />
-</p>
-
 ---
 
 ## 🚀 About Me
