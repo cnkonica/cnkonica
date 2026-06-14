@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm cnkonica 👋
 
-<!--
-**cnkonica/cnkonica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me
+- 🔭 I am currently focusing on backend development and system architecture.
+- ⚡ Always writing clean code, solving complex problems, and optimizing performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Spring" />
+</p>
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</p>
+
